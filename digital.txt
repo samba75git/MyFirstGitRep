@@ -1,0 +1,2 @@
+Gitbash is software
+Github is a centralized code repo & version control
